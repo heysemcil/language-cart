@@ -1,0 +1,15 @@
+@import './scss/reset';
+
+
+body {
+  background: rgb(244, 210, 97);
+  background: linear-gradient(
+    36deg,
+    rgba(244, 210, 97, 1) 0%,
+    rgba(251, 237, 171, 1) 100%
+  );
+  display: flex;
+  justify-content: center;
+  height: 100vh;
+  user-select: none; 
+}

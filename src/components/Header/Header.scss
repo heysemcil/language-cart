@@ -1,0 +1,16 @@
+header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    .react-img {
+      margin-top: 2rem;
+      width: 250px;
+      height: 150px;
+
+      img {
+        max-width: 100%;
+        max-height: 100%;
+      }
+    }
+  }
